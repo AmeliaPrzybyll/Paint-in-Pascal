@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2024.08.12 09:40:16.580,=C:\GIT\Default projects\Unit1.pas</Transaction>
+    <Transaction>2024.08.12 14:08:25.216,C:\Śmieci\Programy\Paint\Unit1.dfm=C:\GIT\Default projects\Unit1.dfm</Transaction>
+    <Transaction>2024.08.12 14:08:25.216,C:\Śmieci\Programy\Paint\Unit1.pas=C:\GIT\Default projects\Unit1.pas</Transaction>
+    <Transaction>2024.08.12 14:08:32.790,C:\Śmieci\Programy\Paint\Paint.dproj=C:\GIT\Default projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
